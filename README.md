@@ -1,15 +1,39 @@
-# notes-app
+# 📝 Notes App
 
-## fitur
-1: Menampilkan Daftar Catatan dengan Baik ()
-2: Formulir Tambah Catatan
-3: CSS Grid sebagai Metode Layouting
-4: Bangun Komponen UI dengan Web Component (shadow DOM, Custom Element, dan HTML Template)
-5: Memiliki Tampilan yang Menarik
-7: Menerapkan Realtime Validation pada Formulir
-8: Menerapkan Custom Attribute pada Custom Element
-9: Memiliki Tampilan yang Responsive di Berbagai Perangkat
+A simple and responsive Notes App built with **Web Components**, **ES Modules**, and **CSS Grid**.  
+You can add, edit, delete, archive, and search your notes — with real-time validation!
 
-## Tech
-1: Javascript
-2: HTML, CSS
+## 🚀 Features
+
+- Add new notes with title and content
+- Real-time input validation (title must include letters)
+- Edit existing notes
+- Delete notes
+- Mark notes as done
+- Archive and unarchive notes
+- Search notes by keyword
+- Responsive design using CSS Grid
+- Modular architecture with Web Components (Custom Elements, Shadow DOM)
+
+## 🖼️ Screenshots
+
+> _(./img/notes-app.png)_
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Grid Layout)
+- JavaScript (ES Modules)
+- Web Components:
+  - Custom Elements
+  - Shadow DOM
+  - HTML Templates
+
+## 📦 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/kamaldev10/notes-app.git
+cd notes-app
+```
