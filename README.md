@@ -17,7 +17,7 @@ You can add, edit, delete, archive, and search your notes — with real-time val
 
 ## 🖼️ Screenshots
 
-> _(./img/notes-app.png)_
+![Tampilan Utama](./img/notes-app.png)
 
 ## 🛠️ Technologies Used
 
