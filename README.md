@@ -1,6 +1,6 @@
 # notes-app
 
-##fitur
+## fitur
 1: Menampilkan Daftar Catatan dengan Baik ()
 2: Formulir Tambah Catatan
 3: CSS Grid sebagai Metode Layouting
@@ -10,6 +10,6 @@
 8: Menerapkan Custom Attribute pada Custom Element
 9: Memiliki Tampilan yang Responsive di Berbagai Perangkat
 
-##Tech
+## Tech
 1: Javascript
 2: HTML, CSS
